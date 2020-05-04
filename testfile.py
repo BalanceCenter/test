@@ -1,4 +1,5 @@
 # 海龟做图，画一条蟒蛇
+# 注释
 import turtle
 
 turtle.setup(1000,600,200,200)
